@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Home Menu -->
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ikon_home"
+        android:title="Home" />
+
+    <!-- Appointment Menu -->
+    <item
+        android:id="@+id/navigation_appointment"
+        android:icon="@drawable/ikon_kalender"
+        android:title="Appointment" />
+
+    <!-- Store Menu -->
+    <item
+        android:id="@+id/navigation_store"
+        android:icon="@drawable/ikon_store"
+        android:title="Store" />
+
+    <!-- Message Menu -->
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/ikon_pesan"
+        android:title="Message" />
+
+    <!-- Profile Menu -->
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ikon_akun"
+        android:title="My Profile" />
+
+</menu>
