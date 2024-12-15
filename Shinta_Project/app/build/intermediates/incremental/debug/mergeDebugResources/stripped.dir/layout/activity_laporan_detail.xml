@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Label dan data Laporan -->
+    <TextView
+        android:id="@+id/tvLaporanDetailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Laporan:"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvLaporanDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Laporan Data"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Label dan data Tanggal -->
+    <TextView
+        android:id="@+id/tvTanggalDetailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal:"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvTanggalDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tanggal Data"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Label dan data Lokasi -->
+    <TextView
+        android:id="@+id/tvLokasiDetailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lokasi:"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvLokasiDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lokasi Data"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Label dan data Instansi -->
+    <TextView
+        android:id="@+id/tvInstansiDetailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Instansi:"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvInstansiDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Instansi Data"
+        android:layout_marginBottom="16dp" />
+</LinearLayout>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_informasi.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_informasi.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_laporan_detail.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_laporan_detail.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_home.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/item_laporan.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/item_laporan.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_pengaduan.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_pengaduan.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_register.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_laporan.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_laporan.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_map.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.shinta_project.app-mergeDebugResources-53:/layout/activity_processing.xml",
+        "source": "com.example.shinta_project.app-main-56:/layout/activity_processing.xml"
+    }
+]
