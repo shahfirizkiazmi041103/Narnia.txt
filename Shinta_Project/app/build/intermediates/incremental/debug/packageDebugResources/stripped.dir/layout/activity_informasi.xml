@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5D6A1">
+
+    <!-- Tombol Back di kiri atas -->
+    <ImageView
+        android:id="@+id/btnbalek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_back"
+        android:contentDescription="Back"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp" />
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="268dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Konten Informasi -->
+    <TextView
+        android:id="@+id/tvKontenInformasi1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Kenaikan Pajak Pertambahan Nilai (PPN): Mulai Januari 2025, tarif PPN akan naik menjadi 12% untuk meningkatkan penerimaan negara. Namun, ini juga memicu kekhawatiran akan inflasi dan peningkatan biaya hidup."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/btnbalek" />
+
+    <!-- Konten Informasi 2 -->
+    <TextView
+        android:id="@+id/tvKontenInformasi2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Program Tabungan Perumahan Rakyat (Tapera): Program ini mulai diberlakukan pada 2027, di mana gaji pekerja di atas UMR akan dipotong sebesar 3%-0,5% ditanggung pemberi kerja dan 2,5% oleh pekerja untuk membantu mereka memiliki rumah pertama."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/tvKontenInformasi1" />
+
+    <!-- Konten Informasi 3 -->
+    <TextView
+        android:id="@+id/tvKontenInformasi3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Implementasi Kelas Rawat Inap Standar (KRIS): Kelas BPJS Kesehatan akan dihapus dan diganti dengan KRIS, yang diharapkan dapat menyederhanakan sistem iuran dan meningkatkan kesetaraan akses layanan kesehatan."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/tvKontenInformasi2" />
+
+    <!-- Konten Informasi 4 -->
+    <TextView
+        android:id="@+id/tvKontenInformasi4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Penurunan Bunga Pinjaman Online (Pinjol): Bunga pinjaman online turun dari 0,4% per hari menjadi 0,3% per hari, yang diharapkan dapat membantu masyarakat dalam mendapatkan pinjaman dengan bunga lebih rendah."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/tvKontenInformasi3" />
+
+    <!-- Konten Informasi 5 -->
+    <TextView
+        android:id="@+id/tvKontenInformasi5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. Aturan Pembelian Gas LPG 3 Kg Wajib Pakai KTP: Mulai Januari 2024, pembelian gas LPG 3 Kg harus menggunakan KTP untuk mencegah penyalahgunaan dan menciptakan transparansi dalam distribusi gas."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/tvKontenInformasi4" />
+
+    <!-- Konten Informasi 6 -->
+    <TextView
+        android:id="@+id/tvKontenInformasi6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6. Aturan Fotokopi KTP Tidak Berlaku: Fotokopi KTP tidak lagi diperlukan sebagai persyaratan dalam mengurus berbagai layanan administrasi karena penerapan sistem identitas digital."
+        android:textColor="#333333"
+        android:textSize="14sp"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/tvKontenInformasi5" />
+
+    <!-- Gambar Latar Belakang yang Samar -->
+    <ImageView
+        android:id="@+id/fullscreen_image"
+        android:layout_width="406dp"
+        android:layout_height="326dp"
+        android:layout_marginBottom="4dp"
+        android:alpha="0.3"
+        android:contentDescription="Background Image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

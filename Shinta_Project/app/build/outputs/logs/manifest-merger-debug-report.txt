@@ -1,0 +1,555 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\97a8f429a260c4681bde188d45b512d6\transformed\viewbinding-8.7.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\81af65b801095a5ab138104790ceaa48\transformed\navigation-common-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\13577445b0ba4c928d10c7bd88c22527\transformed\navigation-common-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bc8023512b6f0c31ebe1fccc0fbb88c1\transformed\navigation-runtime-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ea12adbe68cfaeac073e3518eabe9739\transformed\navigation-runtime-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c76543ad493cbc0377894c9b580dfecb\transformed\navigation-fragment-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1d4b6c925dc2ad556c2eba2439fa4da8\transformed\navigation-fragment-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f41460c5de45b93b2455f7e63ddef42f\transformed\navigation-ui-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bdc33511c2a99d6d26885bb9e0d13638\transformed\navigation-ui-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c727ac33ebd6ddc092331bd389e925d4\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1337ac0131251a0c5e7681a0cdd2ae04\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\59248bb902a1478212724270c62bed94\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f25e96530073f1a7718c3e989215c6e0\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b312f426b6d1ac9ed717ef2fe7a2e544\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eec52698823ec8c7069a42c7a1739b5f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\968f365f7226c49132367b7db6d77144\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fc82bf694842ea12c6457e485a3c878d\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6cab5e85cd62f1cfada94a41a0b98606\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eb9367615a629b119facfa572d32b46b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6dd423a881d17f0ec2db22a91701e7d2\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\99ef2a92c5023df9d77638d0f1696c14\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7d4d3355deca8512f0c1ff658219dd23\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9ac67dc3e10d467f0eec1c0bc444fb91\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\89413a09866c57945f91ff970d4e5e44\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\62576673be2bb625051e5c2b6fa89fa2\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83baee20b0b89f498441a69eb6769c86\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\238e6959223a90754ae44fe914a6b714\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\0fba51cdca63030f0cd5f4881455cf70\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b682849c45e505fcaffa52085fba84ed\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dad083be21a7063cedb3453d9c20722c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2aa5a10b5b152df2331ee13c08b43503\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\cf34a8ddb3c9f5960fa4de5a03f772ae\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5f023f0f84be6ab2454e10b4e7e613cd\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1600a0c72f578bd0f3c89f78ff2deb56\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3fc25c651960a4ff4fc5dca03906ea01\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\498f95aff93cce7be631f836c425dbb1\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f4521dd3a930c3119a4d13da1c0046ff\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5c3506fc1455cd12c7d2b2b44f774d14\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c771b7a458f02900a62ffeb7e789382b\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83429b18f63b2ac0bb929d87c10d8701\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\347686cbe46faf3195c97129ce40f76a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\413909fcf4ed644036151d7da301831a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\4379f4b5f6e9c179cc07764ad4f2a400\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dd63e2dfe8a7c987c0532dc4ce63c740\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ed159fa7eb8f50e38bbfffacdf675b02\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7feee2a492b7b3df6d1425174a863d38\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\275ec4e0c20763fb5a9b2659b3981df4\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3bb07746d8decd2156487588bae0503c\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9042227347bef3b8d2bb33e5c24e294f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8acbfb11d1d67f26bab4b6785f478573\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e80cee117537a3ffc2ddff85a5a5ea00\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\714b1c2ef7b02bdf7856280f12421d2b\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2bf9778dab08206b4510b9e6a416571c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fe70442091abda3193347a623cf82c23\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bcb201c5c8390575b6152bbdc953b1b9\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b252ae8c37272c8babc460650088fe0d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fbc4a29b065f5831205ad0710a01f1f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\864ec01428ce1d2e16f00b6b7a67b847\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\439c2c9f3206f8ab30e0c1259344b2f1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:6:5-45:19
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:6:5-45:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c727ac33ebd6ddc092331bd389e925d4\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c727ac33ebd6ddc092331bd389e925d4\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1337ac0131251a0c5e7681a0cdd2ae04\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1337ac0131251a0c5e7681a0cdd2ae04\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eec52698823ec8c7069a42c7a1739b5f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eec52698823ec8c7069a42c7a1739b5f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fc82bf694842ea12c6457e485a3c878d\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fc82bf694842ea12c6457e485a3c878d\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5c3506fc1455cd12c7d2b2b44f774d14\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5c3506fc1455cd12c7d2b2b44f774d14\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fe70442091abda3193347a623cf82c23\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fe70442091abda3193347a623cf82c23\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:12:9-35
+	android:fullBackupContent
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:13:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:8:9-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:16:9-18:53
+	android:value
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:18:13-51
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:17:13-58
+activity#com.example.shinta_project.MainActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:exported
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.shinta_project.RegisterActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:31:9-33:39
+	android:exported
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:32:13-45
+activity#com.example.shinta_project.HomeActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:35:9-38:72
+	android:exported
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.example.shinta_project.PengaduanActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:39:9-55
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:39:19-52
+activity#com.example.shinta_project.ProcessingActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:40:19-53
+activity#com.example.shinta_project.InformasiActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.example.shinta_project.LaporanActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:42:19-50
+activity#com.example.shinta_project.LaporanDetailActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:43:9-59
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:43:19-56
+activity#com.example.shinta_project.MapActivity
+ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml:44:19-46
+uses-sdk
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\97a8f429a260c4681bde188d45b512d6\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\97a8f429a260c4681bde188d45b512d6\transformed\viewbinding-8.7.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\81af65b801095a5ab138104790ceaa48\transformed\navigation-common-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\81af65b801095a5ab138104790ceaa48\transformed\navigation-common-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\13577445b0ba4c928d10c7bd88c22527\transformed\navigation-common-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\13577445b0ba4c928d10c7bd88c22527\transformed\navigation-common-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bc8023512b6f0c31ebe1fccc0fbb88c1\transformed\navigation-runtime-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bc8023512b6f0c31ebe1fccc0fbb88c1\transformed\navigation-runtime-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ea12adbe68cfaeac073e3518eabe9739\transformed\navigation-runtime-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ea12adbe68cfaeac073e3518eabe9739\transformed\navigation-runtime-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c76543ad493cbc0377894c9b580dfecb\transformed\navigation-fragment-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c76543ad493cbc0377894c9b580dfecb\transformed\navigation-fragment-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1d4b6c925dc2ad556c2eba2439fa4da8\transformed\navigation-fragment-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1d4b6c925dc2ad556c2eba2439fa4da8\transformed\navigation-fragment-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f41460c5de45b93b2455f7e63ddef42f\transformed\navigation-ui-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f41460c5de45b93b2455f7e63ddef42f\transformed\navigation-ui-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bdc33511c2a99d6d26885bb9e0d13638\transformed\navigation-ui-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.4] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bdc33511c2a99d6d26885bb9e0d13638\transformed\navigation-ui-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c727ac33ebd6ddc092331bd389e925d4\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c727ac33ebd6ddc092331bd389e925d4\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1337ac0131251a0c5e7681a0cdd2ae04\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1337ac0131251a0c5e7681a0cdd2ae04\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\59248bb902a1478212724270c62bed94\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\59248bb902a1478212724270c62bed94\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f25e96530073f1a7718c3e989215c6e0\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f25e96530073f1a7718c3e989215c6e0\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b312f426b6d1ac9ed717ef2fe7a2e544\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b312f426b6d1ac9ed717ef2fe7a2e544\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eec52698823ec8c7069a42c7a1739b5f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eec52698823ec8c7069a42c7a1739b5f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\968f365f7226c49132367b7db6d77144\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\968f365f7226c49132367b7db6d77144\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fc82bf694842ea12c6457e485a3c878d\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fc82bf694842ea12c6457e485a3c878d\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6cab5e85cd62f1cfada94a41a0b98606\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6cab5e85cd62f1cfada94a41a0b98606\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eb9367615a629b119facfa572d32b46b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\eb9367615a629b119facfa572d32b46b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6dd423a881d17f0ec2db22a91701e7d2\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\6dd423a881d17f0ec2db22a91701e7d2\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\99ef2a92c5023df9d77638d0f1696c14\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\99ef2a92c5023df9d77638d0f1696c14\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7d4d3355deca8512f0c1ff658219dd23\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7d4d3355deca8512f0c1ff658219dd23\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9ac67dc3e10d467f0eec1c0bc444fb91\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9ac67dc3e10d467f0eec1c0bc444fb91\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\89413a09866c57945f91ff970d4e5e44\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\89413a09866c57945f91ff970d4e5e44\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\62576673be2bb625051e5c2b6fa89fa2\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\62576673be2bb625051e5c2b6fa89fa2\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83baee20b0b89f498441a69eb6769c86\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83baee20b0b89f498441a69eb6769c86\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\238e6959223a90754ae44fe914a6b714\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\238e6959223a90754ae44fe914a6b714\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\0fba51cdca63030f0cd5f4881455cf70\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\0fba51cdca63030f0cd5f4881455cf70\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b682849c45e505fcaffa52085fba84ed\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b682849c45e505fcaffa52085fba84ed\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dad083be21a7063cedb3453d9c20722c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dad083be21a7063cedb3453d9c20722c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2aa5a10b5b152df2331ee13c08b43503\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2aa5a10b5b152df2331ee13c08b43503\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\cf34a8ddb3c9f5960fa4de5a03f772ae\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\cf34a8ddb3c9f5960fa4de5a03f772ae\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5f023f0f84be6ab2454e10b4e7e613cd\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5f023f0f84be6ab2454e10b4e7e613cd\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1600a0c72f578bd0f3c89f78ff2deb56\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\1600a0c72f578bd0f3c89f78ff2deb56\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3fc25c651960a4ff4fc5dca03906ea01\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3fc25c651960a4ff4fc5dca03906ea01\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\498f95aff93cce7be631f836c425dbb1\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\498f95aff93cce7be631f836c425dbb1\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f4521dd3a930c3119a4d13da1c0046ff\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\f4521dd3a930c3119a4d13da1c0046ff\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5c3506fc1455cd12c7d2b2b44f774d14\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\5c3506fc1455cd12c7d2b2b44f774d14\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c771b7a458f02900a62ffeb7e789382b\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\c771b7a458f02900a62ffeb7e789382b\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83429b18f63b2ac0bb929d87c10d8701\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\83429b18f63b2ac0bb929d87c10d8701\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\347686cbe46faf3195c97129ce40f76a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\347686cbe46faf3195c97129ce40f76a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\413909fcf4ed644036151d7da301831a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\413909fcf4ed644036151d7da301831a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\4379f4b5f6e9c179cc07764ad4f2a400\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\4379f4b5f6e9c179cc07764ad4f2a400\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dd63e2dfe8a7c987c0532dc4ce63c740\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\dd63e2dfe8a7c987c0532dc4ce63c740\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ed159fa7eb8f50e38bbfffacdf675b02\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\ed159fa7eb8f50e38bbfffacdf675b02\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7feee2a492b7b3df6d1425174a863d38\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\7feee2a492b7b3df6d1425174a863d38\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\275ec4e0c20763fb5a9b2659b3981df4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\275ec4e0c20763fb5a9b2659b3981df4\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3bb07746d8decd2156487588bae0503c\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3bb07746d8decd2156487588bae0503c\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9042227347bef3b8d2bb33e5c24e294f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\9042227347bef3b8d2bb33e5c24e294f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8acbfb11d1d67f26bab4b6785f478573\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8acbfb11d1d67f26bab4b6785f478573\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e80cee117537a3ffc2ddff85a5a5ea00\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e80cee117537a3ffc2ddff85a5a5ea00\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\714b1c2ef7b02bdf7856280f12421d2b\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\714b1c2ef7b02bdf7856280f12421d2b\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2bf9778dab08206b4510b9e6a416571c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\2bf9778dab08206b4510b9e6a416571c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fe70442091abda3193347a623cf82c23\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fe70442091abda3193347a623cf82c23\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bcb201c5c8390575b6152bbdc953b1b9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\bcb201c5c8390575b6152bbdc953b1b9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b252ae8c37272c8babc460650088fe0d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b252ae8c37272c8babc460650088fe0d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fbc4a29b065f5831205ad0710a01f1f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fbc4a29b065f5831205ad0710a01f1f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\864ec01428ce1d2e16f00b6b7a67b847\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\864ec01428ce1d2e16f00b6b7a67b847\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\439c2c9f3206f8ab30e0c1259344b2f1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\439c2c9f3206f8ab30e0c1259344b2f1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HAPPY COM\Downloads\Shinta_Projectt\Shinta_Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\b39e03d29e9d6034e20744a2264fb482\transformed\play-services-maps-19.0.0\AndroidManifest.xml:40:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\96be7227f96a503f730efd7a45856c2f\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\deb1e0cf6884faf62c8d1918824ddc5d\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\edc434c2232208a036a1affc882aaedd\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3d93a3ecf19d58bf5248c7fc666a5177\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\fa1219e6e2a8d260f706038b97cc345d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\181a73e455b685431c17f98d46a772ff\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\92326211f39449211a4c1d3c27cfc323\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\8ac247df85d0a1495192f300815a9aa3\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\e04ae3d5cebbf1071f00a5dccb7b8845\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.shinta_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.shinta_project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\74ed2ae439d1eea1cce855fc6b87ff08\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\HAPPY COM\.gradle\caches\8.9\transforms\3b1a10b234c884fa3104540f8d4e00ed\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
